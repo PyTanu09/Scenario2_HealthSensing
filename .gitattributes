@@ -1,0 +1,4 @@
+*Scenario2_HealthSensing filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/breathing_dataset.csv filter=lfs diff=lfs merge=lfs -text
